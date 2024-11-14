@@ -119,8 +119,8 @@ $ git log --pretty=format:"%h %ad %an %s" --date=short
 + 1a6342d 2024-11-15 4317 Churilin B.S. Создание отчета
 + c0cedce 2024-11-14 4317 Churilin B.S. Добавлена программа
 + e489776 2024-11-14 4317 Churilin B.S. Merge branch 'branch1' into master
-+ 9f79ee5 2024-11-14 wilowew Update mergefile.txt
-+ a940129 2024-11-14 wilowew Create main.cpp
++ 9f79ee5 2024-11-14 4317 Churilin B.S. Update mergefile.txt
++ a940129 2024-11-14 4317 Churilin B.S. Create main.cpp
 + 921f53b 2020-11-21 Kurtyanik Обновление информации
 + 0f9f50d 2020-11-21 Kurtyanik Заполнил файл
 + c08a654 2020-11-21 Kurtyanik Файл создан пустым
